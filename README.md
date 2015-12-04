@@ -31,10 +31,12 @@ As well as the following features:
 
 已授權的 JavaScript 來源
 http://localhost
+http://jacobhsu.github.io
 
 已授權的重新導向 URI
 http://localhost/oauth2callback
 http://localhost/gdrive-music-player/?oauth
+http://jacobhsu.github.io/gdrive-music-player/?oauth
 
 * 設定 *
 
