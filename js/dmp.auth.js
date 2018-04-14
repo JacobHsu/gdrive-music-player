@@ -19,10 +19,10 @@ var dmp = dmp || {};
 dmp.auth = dmp.auth || {};
 
 /** The Drive application ID. */
-dmp.auth.APPLICATION_ID = "756782221456";
+dmp.auth.APPLICATION_ID = "855632290683";
 
 /** The app's Client ID. */
-dmp.auth.CLIENT_ID = "756782221456-9ij230q0rtdhlrhcck0c4ctb7strl6sb.apps.googleusercontent.com";
+dmp.auth.CLIENT_ID = "855632290683-anlmmlfiubegi7jisb1mp0bl03bqjdt5.apps.googleusercontent.com";
 
 /** Some Google OAuth 2.0 scopes. */
 dmp.auth.DRIVE_FILE_SCOPE = "https://www.googleapis.com/auth/drive.file";

@@ -29,6 +29,8 @@ As well as the following features:
 
 * 網路應用程式 用戶端 ID *
 
+用戶端 ID `dmp.auth.CLIENT_ID `
+
 已授權的 JavaScript 來源
 http://localhost
 http://jacobhsu.github.io
@@ -37,6 +39,8 @@ http://jacobhsu.github.io
 http://localhost/oauth2callback
 http://localhost/gdrive-music-player/?oauth
 http://jacobhsu.github.io/gdrive-music-player/?oauth
+
+啟用 Google Drive API 
 
 * 設定 *
 
